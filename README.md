@@ -1,4 +1,4 @@
-# CoFi-JIT
+# KnowJIT
 
 ## Defect Categories
 
