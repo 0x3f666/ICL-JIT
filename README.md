@@ -71,7 +71,7 @@ Then you can get a file named `semantic_repair_results.csv`, which records the d
 
 To reproduce the random-base results in RQ1, please run the following command:
 ```bash
-python demo.py --model Repair --retrieve random --example_num 5
+python demo.py --mode Repair --retrieve random --example_num 5
 ```
 Then you can get a file named `random_repair_results.csv`, which records the defect repair accuracy.
 The successfully repaired code can be found in `matched_answers.csv`.
